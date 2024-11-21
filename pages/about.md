@@ -10,7 +10,13 @@ credits: true
 
 <!-- {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} -->
 
-{% include feature/nav-menu.html sections="Abstract;About the Authors;About the Collection" %}
+{% include feature/nav-menu.html sections="Authors;Abstract;About the Collection" %}
+
+## Authors
+
+John Adler is a 1st year MLIS student in UW hailing from Colorado. Previously, John worked with NOAA on various weather and climate missions.
+
+Yida Liu is a 1st year MLIS student in UW. Before joining the program, Yida was a software engineer on digital wallet and blockchain. 
 
 ## Abstract
 
@@ -18,12 +24,6 @@ This digital archive presents six documents chronicling U.S. government weather 
 
 In unclassified weather modification experiments, from 1962 to 1983 Project Stormfury represented an ambitious attempt to weaken hurricanes through cloud seeding. This document collection offers a glimpse into weather modification activity from various government agencies, including declassified military documents, congressional hearings, and scientific studies. These primary sources continue to raise crucial questions about the ethical implications of weather modification technology, similar to the implications raised by others in previous generations. 
 
-
-## About the Authors
-
-John Alder
-
-Yida Liu
 
 ## About the Collection
 
